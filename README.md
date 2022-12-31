@@ -18,6 +18,7 @@
 
 ## Acknowledgements
 
+- [lio-sam-noted](https://github.com/xieqi1/lio-sam-noted)
 - [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 
 
