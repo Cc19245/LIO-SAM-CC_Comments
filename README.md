@@ -16,6 +16,10 @@
 - [ ] mapOptmization.cpp 中回环检测细看；
 - [ ] 订阅的GPS并不是原始的GPS信息，而是使用了ROS功能包中的GPS/IMU组合导航得到的里程计信息，这部分还要细看。
 
+## Acknowledgements
+
+- [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+
 
 
 ----
