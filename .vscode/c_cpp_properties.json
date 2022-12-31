@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/cc/slamWorkspace/myLearn/LIO-SAM_Learn/LIO-SAM_CC_Comments/devel/include/**",
+        "/home/cc/slam_dev/hardware_driver/livox_driver/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/cc/slamWorkspace/myLearn/LIO-SAM_Learn/LIO-SAM_CC_Comments/src/LIO-SAM/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
